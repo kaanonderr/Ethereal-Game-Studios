@@ -1,2 +1,3 @@
-# Ethereal-Game-Studios
-Ethereal Games Roblox
+# Ethereal Game Studios
+
+Home of Ethereal Games' Roblox projects.
